@@ -1,0 +1,25 @@
+﻿**********************
+Windows PowerShell transcript start
+Start time: 20240104212925
+Username: AP\SYSTEM
+RunAs User: AP\SYSTEM
+Configuration Name: 
+Machine: IBE-OF-WL0289 (Microsoft Windows NT 10.0.19045.0)
+Host Application: C:\WINDOWS\system32\windowspowershell\v1.0\powershell.exe -NoProfile -NonInteractive -ExecutionPolicy Bypass -Command & 'C:\_SMSTaskSequence\Packages\CCM00013\ALV\SystemLocale.ps1' -locale en-US ; exit ($LASTEXITCODE -bor [int](-not $? -and -not $LASTEXITCODE)) 
+Process ID: 5628
+PSVersion: 5.1.19041.3031
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.19041.3031
+BuildVersion: 10.0.19041.3031
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is C:\Temp\SystemLocale.log
+Locale received is: en-US
+Locale is correct...
+**********************
+Windows PowerShell transcript end
+End time: 20240104212925
+**********************
